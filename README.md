@@ -1,6 +1,12 @@
 ## 🦋🦋🦋
 Programming Hobbyist
 
+## Languages
+# Python
+# C#
+# HTML
+# CSS
+
 <div align="center">
   <a href="https://app.daily.dev/necrokochou"><img src="https://api.daily.dev/devcards/v2/0upQd6H1sX3MsVGxYsvhh.png?r=rcc&type=wide" width="652" alt="necrokochou's Dev Card"/></a>
 </div>
