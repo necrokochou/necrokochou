@@ -1,5 +1,6 @@
 ## About Me 🦋🦋🦋
 Programming Hobbyist
+"kochou" means butterfly in Japanese. butterfly is "paruparo" in Filipino. :)
 <!--I'm a passionate software developer with a strong interest in building efficient, scalable, and user-friendly applications. I enjoy learning new technologies and improving my craft every day.-->
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=50 width=50/>
